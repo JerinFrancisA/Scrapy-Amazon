@@ -1,2 +1,2 @@
-# Scrapy_Amazon
+# Scrapy Amazon
 A scraper/ crawler for Amazon laptop section
